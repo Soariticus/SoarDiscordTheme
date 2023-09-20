@@ -154,7 +154,7 @@
   right: var(--window-padding);
 }
 ::-webkit-input-placeholder, body, button, input, select, textarea {
-  font-family: var(--font, "Whitney");
+  font-family: var(--font, "Calibri");
 }
 #app-mount .tooltip-2QfLtc {
   color: var(--text-normal);
